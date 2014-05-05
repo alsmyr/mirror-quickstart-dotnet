@@ -23,12 +23,12 @@ namespace MirrorQuickstart.Models
     {
         /// The OAuth2.0 Client ID of your project.
         /// </summary>
-        public static readonly string CLIENT_ID = "[[YOUR_CLIENT_ID]]";
+        public static readonly string CLIENT_ID = "964448968622.apps.googleusercontent.com";
 
         /// <summary>
         /// The OAuth2.0 Client secret of your project.
         /// </summary>
-        public static readonly string CLIENT_SECRET = "[[YOUR_CLIENT_SECRET]]";
+        public static readonly string CLIENT_SECRET = "CUREocNYHxFeKwSXu1DTkLHx";
 
         /// <summary>
         /// The OAuth2.0 scopes required by your project.
@@ -43,6 +43,6 @@ namespace MirrorQuickstart.Models
         /// <summary>
         /// The Redirect URI of your project.
         /// </summary>
-        public static readonly string REDIRECT_URI = "[[YOUR_REDIRECT_URI]]";
+        public static readonly string REDIRECT_URI = "http://localhost:61422/oauth2callback";
     }
 }
